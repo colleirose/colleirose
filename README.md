@@ -2,7 +2,7 @@
   My name is Rose! I'm experienced with web development, and interested in native development and security~  
   <hr/>
   <br/>
-  <p align="center"><img src="./profile/stats.svg" alt="Stats" align="center" /></p>
+  <!--<p align="center"><img src="./profile/stats.svg" alt="Stats" align="center" /></p>-->
   <p align="center"><img src="./profile/top-langs.svg" alt="Top languages" align="center" /></p>
   <hr/>
   <br/>
